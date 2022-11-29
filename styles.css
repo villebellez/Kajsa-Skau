@@ -1,0 +1,17 @@
+body {
+    background-color: #f2ecec;
+}
+
+#top-container {
+    width: 900px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #722f56;
+}
+
+#main-photo {
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
